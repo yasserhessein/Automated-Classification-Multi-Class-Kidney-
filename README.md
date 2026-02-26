@@ -24,7 +24,7 @@ Compute ROC curve and AUC for each class
 6. Train the model
 7. Evaluate the model
 8. Evaluate the model on the test data
-9. Compute ROC curve and AUC for each class
+9.Compute accuracy precision, recall, f1-score
 10. Load and preprocess the image to testing model
 
 <h2 align="center">🧠 Model Architecture Summary</h2>
