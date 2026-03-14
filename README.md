@@ -1,4 +1,4 @@
-# 📊 **Automated Detection of Chronic Kidney Disease (CKD)**  
+# 📊 **Automated Detection of Multi-Class Kidney **  
 ### 🔬 Using CNN-BiLSTM for Accurate and Early Diagnosis  
 ---
 
