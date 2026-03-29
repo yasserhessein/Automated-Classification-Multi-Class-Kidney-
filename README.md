@@ -1,4 +1,4 @@
-# 📊 **Automated Classification of Multi-Class Kidney **  
+# 📊 Automated Classification of Multi-Class Kidney 
 ### 🔬 Using CNN-BiLSTM for Accurate and Early Diagnosis  
 ---
 
