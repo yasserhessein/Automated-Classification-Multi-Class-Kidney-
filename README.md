@@ -112,6 +112,8 @@ Recommended:
 
 * Load and preprocess the image to testing model
 
+<img width="421" height="184" alt="image" src="https://github.com/user-attachments/assets/c379c81c-0615-4496-8ed5-372176b3377a" />
+
 
 
 
